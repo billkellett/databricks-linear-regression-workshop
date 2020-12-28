@@ -1,5 +1,7 @@
-# databricks-ml-with-sql-workshop
+# databricks-linear-regression-workshop
 
-UNDER CONSTRUCTION
+This workshop walks through the creation of a simple linear regression Spark ML model on Databricks.
 
-Brief workshop that shows how to render an ML model as a user-defined function that can be called with SQL.
+To run this workshop, import import this notebook: https://github.com/billkellett/databricks-linear-regression-workshop/blob/main/notebooks/ml-linear-regression-workshop.dbc 
+
+This notebook will run on Azure or AWS Databricks. It will not run on Community Edition.
